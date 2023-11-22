@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sms transceiver</string>
+    <string name="working_message">Отлично! Теперь приложение может обрабатывать смс</string>
+    <string name="sms_receive_permission_rationale">Предоставьте разрешение на прием смс</string>
+    <string name="button_positive">ОК</string>
+    <string name="message_body">%1$s\nСообщение от %2$s:\n%3$s</string>
+    <string name="telegram_title">Публичный Telegram</string>
+    <string name="mattermost_title">Публичный Mattermost</string>
+    <string name="mattermost_additional_label">Приватные Mattermost id</string>
+    <string name="mattermost_additional_hint">Введите id приватных каналов через запятую, в которые нужно посылать сообщения. Для сохранения используйте кнопку на клавиатуре</string>
+</resources>
